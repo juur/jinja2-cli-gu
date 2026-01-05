@@ -6,6 +6,6 @@ License: BSD, see LICENSE for more details.
 """
 
 __author__ = "Matt Robenolt"
-__version__ = "0.8.2"
+__version__ = "0.8.2.1"
 
 from .cli import main  # NOQA
